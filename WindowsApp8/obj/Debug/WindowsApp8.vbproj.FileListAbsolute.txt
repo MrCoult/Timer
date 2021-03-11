@@ -1,0 +1,72 @@
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojResolveAssemblyReference.cache
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.Cache
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+c:\users\draquinka\documents\visual studio 2017\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojResolveAssemblyReference.cache
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.Cache
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+D:\CloudStation\Facultate\Anul I Semestrul 2\Bazele programarii pe obiecte\Projects\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
+F:\Projects\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+F:\Projects\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe
+F:\Projects\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.pdb
+F:\Projects\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.xml
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbprojResolveAssemblyReference.cache
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.Cache
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.exe
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.xml
+F:\Projects\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.pdb
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.pdb
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.xml
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.exe
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.xml
+E:\vb\_Visul_Basic\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.pdb
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.pdb
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.xml
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.exe
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.xml
+E:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.pdb
+F:\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+F:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.exe
+F:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.xml
+F:\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\Cronometru\WindowsApp8\obj\Debug\WindowsApp8.pdb
